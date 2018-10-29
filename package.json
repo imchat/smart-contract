@@ -1,0 +1,22 @@
+{
+  "name": "imchat-contract",
+  "version": "1.0.0",
+  "description": "imchat contract",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "contract"
+  ],
+  "author": "Tim",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^6.0.0",
+    "ethereumjs-wallet": "^0.6.2",
+    "truffle-wallet-provider": "0.0.5"
+  }
+}
